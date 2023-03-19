@@ -1,0 +1,37 @@
+.brand_control{
+    width: 50px;
+    height: 50px;
+    border-right: 1px solid whitesmoke;
+}
+.fixed_footer{
+	position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+ 
+  text-align: center;
+}
+
+
+
+.go_down{
+    margin-top: 1%;
+}
+.form_input_design{
+    color: black;
+    font-family: Cambria;
+    font-size: larger;
+}
+.img_user_control{
+    display: block;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-right:auto;
+    width: 50px;
+
+}
+
+
+.dataTables_wrapper .dataTables_filter input {
+    color: white;
+}
